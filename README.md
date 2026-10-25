@@ -1,4 +1,8 @@
-# CrashCool.com
+<h1 align="center">CrashCool.com</h1>
+
+<p align="center">
+  <img src="docs/crashcool-2006.webp" alt="Portada de crashcool.com en 2006" width="800">
+</p>
 
 Recuperación de **crashcool.com**, una web española de programación y hacking ético de mediados
 de los 2000, conocida en la escena hispana por sus programas propios, sus retos y el I Torneo de
