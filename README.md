@@ -24,7 +24,7 @@ están disponibles.
 public/      raíz web
 secciones/   contenido que carga sec.php?menu=...&categoria=...
 includes/    PHP común
-docker/      configuración de Apache y PHP
+docker/      configuración de Nginx
 ```
 
 ## Ejecutarlo
