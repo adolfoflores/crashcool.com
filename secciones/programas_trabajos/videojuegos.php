@@ -33,7 +33,7 @@ BODY{
 solo una beta, pero totalmente funcional, tiene vidas ilimitas, proximamente subir&eacute; 
 la versi&oacute;n definitiva de este proyecto</FONT><FONT SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif" COLOR="#FF0000"><BR><BR><IMG SRC="sonic.jpg" WIDTH="302" HEIGHT="90"><BR><BR></FONT></DIV></TD><TD HEIGHT="20" WIDTH="5%">&nbsp;</TD>
 </TR><TR bgcolor="#FFFFFF"><TD WIDTH="4%" HEIGHT="20">&nbsp;</TD>
-<TD HEIGHT="20" WIDTH="37%"><DIV ALIGN="CENTER"><B></B></DIV></TD><TD HEIGHT="20" WIDTH="16%"><DIV ALIGN="CENTER"><FONT FACE="Verdana, Arial, Helvetica, sans-serif" SIZE="1"><B><A HREF="/sonicpong/index.html" TARGET="_blank">Jugar</A></B></FONT></DIV></TD><TD HEIGHT="20" WIDTH="38%">&nbsp;</TD>
+<TD HEIGHT="20" WIDTH="37%"><DIV ALIGN="CENTER"><B></B></DIV></TD><TD HEIGHT="20" WIDTH="16%"><DIV ALIGN="CENTER"><FONT FACE="Verdana, Arial, Helvetica, sans-serif" SIZE="1"><B><A HREF="/sonicpong/index.html" TARGET="_blank">Jugar</A>&nbsp;&middot;&nbsp;<A HREF="https://github.com/adolfoflores/sonic-pang" TARGET="_blank">C&oacute;digo</A></B></FONT></DIV></TD><TD HEIGHT="20" WIDTH="38%">&nbsp;</TD>
 <TD HEIGHT="20" WIDTH="5%">&nbsp;</TD>
 </TR></TABLE>
 </body>
