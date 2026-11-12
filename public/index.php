@@ -6,6 +6,7 @@ $stats = cc_estadisticas();
 <html>
 <head>
 <title>CrashCool.com</title>
+<script async src="https://analytics.cank.dev/script.js" data-website-id="1fec4fd7-9c39-40ea-a798-9ee64dccb28c"></script>
 <link rel="shortcut icon" href="favicon.ico">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="keywords" content="crashcool, troyano, jodeitor, php-nukehack, ccbot, bot irc, phptagcool, base64, brute force, sockets, perl ,java , rpc-jodejode,Mini-Servidor Web, agenda de contactos, ccagenda, telnel server fake, keycool, keyloger,fake messenger,parches multisesion, msn patch, open source,ordena contenido, algoritmo basico brute force, formulario contacto mail(), sistema autetificacion, tag-board, hack, hacking etico, programación, proyectos propios, datos navegador, saber mi ip">

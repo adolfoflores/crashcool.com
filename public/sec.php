@@ -6,7 +6,9 @@ $menu = isset($_GET['menu']) ? $_GET['menu'] : '';
 $categoria = isset($_GET['categoria']) ? $_GET['categoria'] : '';
 $sub = isset($_GET['sub']) ? $_GET['sub'] : '';
 $archivo = CC_RAIZ . '/secciones/' . $menu . '/' . $categoria . ($sub != '' ? '/' . $sub : '') . '.php';
-
+?>
+<script async src="https://analytics.cank.dev/script.js" data-website-id="1fec4fd7-9c39-40ea-a798-9ee64dccb28c"></script>
+<?php
 if (preg_match('/^[a-z_]+$/', $menu) && preg_match('/^[a-z0-9_+\-]+$/i', $categoria)
     && ($sub == '' || preg_match('/^[a-z0-9_\-]+$/i', $sub)) && is_file($archivo)) {
     include $archivo;
